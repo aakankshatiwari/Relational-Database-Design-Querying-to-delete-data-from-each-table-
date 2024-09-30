@@ -1,0 +1,1 @@
+# Relational-Database-Design-Querying-to-delete-data-from-each-table-
